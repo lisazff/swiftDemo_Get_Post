@@ -4,7 +4,8 @@ use_frameworks!
 target 'swiftDemo' do
 
   pod 'Alamofire'
-
-
+  pod 'SwiftyJSON'
+  pod 'MJRefresh'
+  pod 'SDWebImage'
  
 end
